@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- Banner: sube tu imagen al repo (por ejemplo banner.png) o usa un link -->
-  <img src="banner.png" alt="Banner" width="100%" />
+  <img src="banner1.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Oscar</h1>
