@@ -5,7 +5,7 @@
   <img src="banner.png" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Tu Nombre</h1>
+<h1 align="center">Hi 👋, I'm Oscar</h1>
 
 ---
 
@@ -21,7 +21,7 @@
 
 ## 🚀 About Me
 
-**Tu Nombre**, here — estudiante de Ingeniería de Software enfocado en desarrollo backend.
+**Oscar**, here — estudiante de Ingeniería de Software enfocado en desarrollo backend.
 
 Disfruto construir APIs escalables y listas para producción, y mejorar constantemente mi comprensión de sistemas reales.
 
@@ -34,9 +34,9 @@ Mi meta es simple: escribir código limpio, construir software confiable y crece
 ## 🤝 Connect
 
 <p align="center">
-  <a href="https://github.com/TU_USUARIO"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://www.linkedin.com/in/TU_USUARIO"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:tucorreo@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://github.com/OscDevM"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://www.linkedin.com/in/OscarMora"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:oscarmora190207@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 ---
@@ -52,7 +52,7 @@ Mi meta es simple: escribir código limpio, construir software confiable y crece
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=TU_USUARIO&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=OscDevM&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -60,5 +60,5 @@ Mi meta es simple: escribir código limpio, construir software confiable y crece
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OscDevM&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" alt="Contribution Graph" />
 </p>
